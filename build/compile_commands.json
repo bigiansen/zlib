@@ -1,0 +1,91 @@
+[
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\adler32.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\adler32.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/adler32.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\compress.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\compress.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/compress.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\crc32.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\crc32.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/crc32.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\deflate.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\deflate.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/deflate.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\gzclose.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\gzclose.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/gzclose.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\gzlib.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\gzlib.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/gzlib.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\gzread.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\gzread.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/gzread.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\gzwrite.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\gzwrite.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/gzwrite.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\infback.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\infback.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/infback.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\inffast.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\inffast.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/inffast.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\inflate.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\inflate.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/inflate.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\inftrees.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\inftrees.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/inftrees.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\trees.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\trees.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/trees.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\uncompr.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\uncompr.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/uncompr.c"
+},
+
+{
+  "directory": "C:/Users/ibozal/Documents/zlib2/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS -I..\\include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\zlib.dir\\src\\zutil.obj /FdTARGET_COMPILE_PDB -c C:\\Users\\ibozal\\Documents\\zlib2\\src\\zutil.c",
+  "file": "C:/Users/ibozal/Documents/zlib2/src/zutil.c"
+}
+]
