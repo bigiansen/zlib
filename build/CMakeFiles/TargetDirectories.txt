@@ -1,3 +1,0 @@
-C:/Users/ibozal/Documents/zlib2/build/CMakeFiles/zlib.dir
-C:/Users/ibozal/Documents/zlib2/build/CMakeFiles/edit_cache.dir
-C:/Users/ibozal/Documents/zlib2/build/CMakeFiles/rebuild_cache.dir
